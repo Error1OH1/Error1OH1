@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on making my way into the computer science industry.
+- 🌱 I’m currently learning C#
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Error1OH1&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
 
 <!--
 **Error1OH1/Error1OH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
