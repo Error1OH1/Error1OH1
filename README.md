@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on making my way into the computer science industry.
 - 🌱 I’m currently learning C#
 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Error1OH1&theme=radical&hide_border=true)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Error1OH1&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
 
